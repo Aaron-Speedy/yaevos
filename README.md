@@ -1,2 +1,2 @@
 # Yaevos
-Yet another evolution simulator
+*Y*et *a*nother *evo*lution *s*imulator
