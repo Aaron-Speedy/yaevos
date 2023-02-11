@@ -1,2 +1,2 @@
 # Yaevos
-**Y**et **a**nother **evo**lution **s**imulator
+Yet another evolution simulator 
